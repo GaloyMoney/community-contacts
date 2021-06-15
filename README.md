@@ -1,98 +1,99 @@
-Many people reaching out in DM to see how to replicate the success of BitcoinBeach (more background here https://twitter.com/nicolasburtey/status/1404018685895970822)
-Probably grouping the energy with like minded people in common area is a good start.
+# Community Contacts
 
-Feel free to use that list as a starting point, and go from here.
-If you want to add yourself here, either add the PR to this repo (ideally) or send me a DM (I could take time to respond)
+Many people have been reaching out via twitter DM to see how to replicate the success of BitcoinBeach (more background here https://twitter.com/nicolasburtey/status/1404018685895970822)
+For better coordination here are a list of people you can contact that are making an effort in various regions.
 
-Probably the next step is to create (telegram?) group for and add the link there, but see as you see fit. 
+Also free to [join our community Slack](https://join.slack.com/t/galoymoney-workspace/shared_invite/zt-rvnhsdb5-72AZCD_jzw6_Q05aCs0SgA) to discuss on a dedicated channel.
 
-handle below are twitter profiles
+If you want to add yourself here please open a PR to this repo.
 
-## Ghana
+## Local coordinators
+
+### Ghana
 @nba_vybes
 
-## Nigeria
+### Nigeria
 @olajide09
 
-## South Africa
+### South Africa
 @hatespoverty
 @dzar_201
 @CuriousMuadib
 
-## Cyprus
+### Cyprus
 @0xMike7
 
-## Uruguay
+### Uruguay
 @jmbushwrites
 
-## Guatemalan
+### Guatemalan
 @carlostoriello
 
-## Sénégal
+### Sénégal
 @diopfode
 
-## Zimbabwe
+### Zimbabwe
 @Simba_Manyeruke
 @KumbaResources
 
-## Vietnam
+### Vietnam
 @neutronpay
 @DominikWeil
 @BitcoinSaigon
 
-## Philippines
+### Philippines
 @JohnnyScarcity
 @Stratechi1
 @bobbydazzzzzler
 @jeo_10
 @21MBitcoinHero
 
-## Ecuador
+### Ecuador
 @latiencia
 
-## Lebanon
+### Lebanon
 @dyermaker
 
-## Sri Lanka
+### Sri Lanka
 @SL_BTC
 @Excesscapacity
 
-## Benin republic
+### Benin republic
 @wale_dprinx
 
-## Greece
+### Greece
 @btc_urgency
 
-## Argentina
+### Argentina
 @lucasabi
 
-## Cuda
+### Cuda
 @SalamiHidden
 
-## Morocco
+### Morocco
 @BoutainaAli
 @jawad_bajjou
 
-## Costa Rica 
+### Costa Rica
 @michael09850542
 
-## Barbados
+### Barbados
 @SATISHfaction
 
-## Colombia
+### Colombia
 @Javier503507
 
-## Puerto Rico
+### Puerto Rico
 @Experibot2
 
-## Senegal 
+### Senegal
 @tkanet
 @emaribeyodn
 
-## Malaysia
+### Malaysia
 @KZLi10
 
-## Myanmar
+### Myanmar
 @_jcdk
 
 ### other, people who want to help without focus of a particular area
