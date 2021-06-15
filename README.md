@@ -17,6 +17,7 @@ handle below are twitter profiles
 ## South Africa
 @hatespoverty
 @dzar_201
+@CuriousMuadib
 
 ## Cyprus
 @0xMike7
@@ -70,6 +71,7 @@ handle below are twitter profiles
 
 ## Morocco
 @BoutainaAli
+@jawad_bajjou
 
 ## Costa Rica 
 @michael09850542
@@ -85,10 +87,13 @@ handle below are twitter profiles
 
 ## Senegal 
 @tkanet
+@emaribeyodn
 
 ## Malaysia
 @KZLi10
 
+## Myanmar
+@_jcdk
 
 ### other, people who want to help without focus of a particular area
 @MansoldoMartino
