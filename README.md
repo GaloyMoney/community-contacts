@@ -17,7 +17,9 @@ If you want to add yourself here please open a PR to this repo.
 
 ### South Africa
 [@hatespoverty](https://twitter.com/hatespoverty)
+<br>
 [@dzar_201](https://twitter.com/dzar_201)
+<br>
 [@CuriousMuadib](https://twitter.com/CuriousMuadib)
 
 ### Cyprus
@@ -34,18 +36,25 @@ If you want to add yourself here please open a PR to this repo.
 
 ### Zimbabwe
 [@Simba_Manyeruke](https://twitter.com/Simba_Manyeruke)
+<br>
 [@KumbaResources](https://twitter.com/KumbaResources)
 
 ### Vietnam
 [@neutronpay](https://twitter.com/neutronpay)
+<br>
 [@DominikWeil](https://twitter.com/DominikWeil)
+<br>
 [@BitcoinSaigon](https://twitter.com/BitcoinSaigon)
 
 ### Philippines
 [@JohnnyScarcity](https://twitter.com/JohnnyScarcity)
+<br>
 [@Stratechi1](https://twitter.com/Stratechi1)
+<br>
 [@bobbydazzzzzler](https://twitter.com/bobbydazzzzzler)
+<br>
 [@jeo_10](https://twitter.com/jeo_10)
+<br>
 [@21MBitcoinHero](https://twitter.com/21MBitcoinHero)
 
 ### Ecuador
@@ -56,6 +65,7 @@ If you want to add yourself here please open a PR to this repo.
 
 ### Sri Lanka
 [@SL_BTC](https://twitter.com/SL_BTC)
+<br>
 [@Excesscapacity](https://twitter.com/Excesscapacity)
 
 ### Benin republic
@@ -72,10 +82,13 @@ If you want to add yourself here please open a PR to this repo.
 
 ### Morocco
 [@BoutainaAli](https://twitter.com/BoutainaAli)
+<br>
 @jawad_bajjou
 
 ### Costa Rica
 [@michael09850542](https://twitter.com/michael09850542)
+<br>
+[@kawalgrover](https://twitter.com/kawalgrover)
 
 ### Barbados
 [@SATISHfaction](https://twitter.com/SATISHfaction)
@@ -88,6 +101,7 @@ If you want to add yourself here please open a PR to this repo.
 
 ### Senegal
 [@tkanet](https://twitter.com/tkanet)
+<br>
 [@emaribeyodn](https://twitter.com/emaribeyodn)
 
 ### Malaysia
@@ -98,4 +112,5 @@ If you want to add yourself here please open a PR to this repo.
 
 ### other, people who want to help without focus of a particular area
 [@MansoldoMartino](https://twitter.com/MansoldoMartino)
+<br>
 [@CntmplteitAll](https://twitter.com/CntmplteitAll)
