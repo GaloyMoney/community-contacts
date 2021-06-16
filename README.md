@@ -76,6 +76,7 @@ If you want to add yourself here please open a PR to this repo.
 
 ### Costa Rica
 [@michael09850542](https://twitter.com/michael09850542)
+[@kawalgrover](https://twitter.com/kawalgrover)
 
 ### Barbados
 [@SATISHfaction](https://twitter.com/SATISHfaction)
