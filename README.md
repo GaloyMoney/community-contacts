@@ -5,112 +5,125 @@ For better coordination here are a list of people you can contact that are makin
 
 Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney-workspace/shared_invite/zt-rvnhsdb5-72AZCD_jzw6_Q05aCs0SgA) to discuss on a dedicated channel.
 
-If you want to add yourself here please open a PR to this repo.
+**If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Flag image is not mandatory but if required it can be downloaded from https://flagpedia.net/download/icons , we use the **Small waving icons** in `40x30 px `size.
 
-## Local coordinators
+## ![globe_ico](/Users/ali/projects/galoy-community/images/flags/globe_ico.gif) Global Coordinators
 
-### Ghana
-[@nba_vybes](https://twitter.com/nba_vybes)
+#### People who want to help and support anywhere in the world without a focus on any particular geographic area.
 
-### Nigeria
-[@olajide09](https://twitter.com/olajide09)
+[@Ali_Meer_](https://twitter.com/Ali_Meer_) - Technology and Education support for Bitcoin adoption anywhere in the world
+[@MansoldoMartino](https://twitter.com/MansoldoMartino)
+[@CntmplteitAll](https://twitter.com/CntmplteitAll)
 
-### South Africa
-[@hatespoverty](https://twitter.com/hatespoverty)
-<br>
-[@dzar_201](https://twitter.com/dzar_201)
-<br>
-[@CuriousMuadib](https://twitter.com/CuriousMuadib)
+## Country Specific Coordinators
 
-### Cyprus
-[@0xMike7](https://twitter.com/0xMike7)
+#### People who want to help and support in a particular local area or country.
 
-### Uruguay
-[@jmbushwrites](https://twitter.com/jmbushwrites)
+### ![ar](/Users/ali/projects/galoy-community/images/flags/ar.png) Argentina
 
-### Guatemalan
-[@carlostoriello](https://twitter.com/carlostoriello)
-
-### Sénégal
-[@diopfode](https://twitter.com/diopfode)
-
-### Zimbabwe
-[@Simba_Manyeruke](https://twitter.com/Simba_Manyeruke)
-<br>
-[@KumbaResources](https://twitter.com/KumbaResources)
-
-### Vietnam
-[@neutronpay](https://twitter.com/neutronpay)
-<br>
-[@DominikWeil](https://twitter.com/DominikWeil)
-<br>
-[@BitcoinSaigon](https://twitter.com/BitcoinSaigon)
-
-### Philippines
-[@JohnnyScarcity](https://twitter.com/JohnnyScarcity)
-<br>
-[@Stratechi1](https://twitter.com/Stratechi1)
-<br>
-[@bobbydazzzzzler](https://twitter.com/bobbydazzzzzler)
-<br>
-[@jeo_10](https://twitter.com/jeo_10)
-<br>
-[@21MBitcoinHero](https://twitter.com/21MBitcoinHero)
-
-### Ecuador
-[@latiencia](https://twitter.com/latiencia)
-
-### Lebanon
-[@dyermaker](https://twitter.com/dyermaker)
-
-### Sri Lanka
-[@SL_BTC](https://twitter.com/SL_BTC)
-<br>
-[@Excesscapacity](https://twitter.com/Excesscapacity)
-
-### Benin republic
-[@wale_dprinx](https://twitter.com/wale_dprinx)
-
-### Greece
-[@btc_urgency](https://twitter.com/btc_urgency)
-
-### Argentina
 [@lucasabi](https://twitter.com/lucasabi)
 
-### Cuda
-[@SalamiHidden](https://twitter.com/SalamiHidden)
+### ![bb](/Users/ali/projects/galoy-community/images/flags/bb.png) Barbados
 
-### Morocco
-[@BoutainaAli](https://twitter.com/BoutainaAli)
-<br>
-@jawad_bajjou
-
-### Costa Rica
-[@michael09850542](https://twitter.com/michael09850542)
-<br>
-[@kawalgrover](https://twitter.com/kawalgrover)
-
-### Barbados
 [@SATISHfaction](https://twitter.com/SATISHfaction)
 
-### Colombia
+### ![bj](/Users/ali/projects/galoy-community/images/flags/bj.png) Benin republic
+
+[@wale_dprinx](https://twitter.com/wale_dprinx)
+
+### ![co](/Users/ali/projects/galoy-community/images/flags/co.png) Colombia
+
 [@Javier503507](https://twitter.com/Javier503507)
 
-### Puerto Rico
-[@Experibot2](https://twitter.com/Experibot2)
+### ![cr](/Users/ali/projects/galoy-community/images/flags/cr.png) Costa Rica
 
-### Senegal
-[@tkanet](https://twitter.com/tkanet)
-<br>
-[@emaribeyodn](https://twitter.com/emaribeyodn)
+[@michael09850542](https://twitter.com/michael09850542)
+[@kawalgrover](https://twitter.com/kawalgrover)
 
-### Malaysia
+### ![cu](/Users/ali/projects/galoy-community/images/flags/cu.png) Cuba
+
+[@SalamiHidden](https://twitter.com/SalamiHidden)
+
+### ![cy](/Users/ali/projects/galoy-community/images/flags/cy.png) Cyprus
+
+[@0xMike7](https://twitter.com/0xMike7)
+
+### ![ec](/Users/ali/projects/galoy-community/images/flags/ec.png) Ecuador
+
+[@latiencia](https://twitter.com/latiencia)
+
+### ![gh](/Users/ali/projects/galoy-community/images/flags/gh.png) Ghana
+
+[@nba_vybes](https://twitter.com/nba_vybes)
+
+### ![gr](/Users/ali/projects/galoy-community/images/flags/gr.png) Greece
+
+[@btc_urgency](https://twitter.com/btc_urgency)
+
+### ![gt](/Users/ali/projects/galoy-community/images/flags/gt.png) Guatemalan
+
+[@carlostoriello](https://twitter.com/carlostoriello)
+
+### ![lb](/Users/ali/projects/galoy-community/images/flags/lb.png) Lebanon
+
+[@dyermaker](https://twitter.com/dyermaker)
+
+### ![my](/Users/ali/projects/galoy-community/images/flags/my.png) Malaysia
+
 [@KZLi10](https://twitter.com/KZLi10)
 
-### Myanmar
+### ![mc](/Users/ali/projects/galoy-community/images/flags/mc.png) Morocco
+
+[@BoutainaAli](https://twitter.com/BoutainaAli)
+
+[@jawad_bajjou](https://twitter.com/jawad_bajjou)
+
+### ![mm](/Users/ali/projects/galoy-community/images/flags/mm.png) Myanmar
+
 [@_jcdk](https://twitter.com/_jcdk)
 
-### other, people who want to help without focus of a particular area
-[@MansoldoMartino](https://twitter.com/MansoldoMartino)
-<br>
-[@CntmplteitAll](https://twitter.com/CntmplteitAll)
+### ![ng](/Users/ali/projects/galoy-community/images/flags/ng.png) Nigeria
+[@olajide09](https://twitter.com/olajide09)
+
+### ![ph](/Users/ali/projects/galoy-community/images/flags/ph.png) Philippines
+
+[@JohnnyScarcity](https://twitter.com/JohnnyScarcity)
+[@Stratechi1](https://twitter.com/Stratechi1)
+[@bobbydazzzzzler](https://twitter.com/bobbydazzzzzler)
+[@jeo_10](https://twitter.com/jeo_10)
+[@21MBitcoinHero](https://twitter.com/21MBitcoinHero)
+
+### ![pr](/Users/ali/projects/galoy-community/images/flags/pr.png) Puerto Rico
+
+[@Experibot2](https://twitter.com/Experibot2)
+
+### ![sn](/Users/ali/projects/galoy-community/images/flags/sn.png) Sénégal
+[@diopfode](https://twitter.com/diopfode)
+[@tkanet](https://twitter.com/tkanet)
+[@emaribeyodn](https://twitter.com/emaribeyodn)
+
+### ![za](/Users/ali/projects/galoy-community/images/flags/za.png) South Africa
+
+[@hatespoverty](https://twitter.com/hatespoverty)
+[@dzar_201](https://twitter.com/dzar_201)
+[@CuriousMuadib](https://twitter.com/CuriousMuadib)
+
+### ![lk](/Users/ali/projects/galoy-community/images/flags/lk.png) Sri Lanka
+
+[@SL_BTC](https://twitter.com/SL_BTC)
+[@Excesscapacity](https://twitter.com/Excesscapacity)
+
+### ![uy](/Users/ali/projects/galoy-community/images/flags/uy.png) Uruguay
+
+[@jmbushwrites](https://twitter.com/jmbushwrites)
+
+### ![vn](/Users/ali/projects/galoy-community/images/flags/vn.png) Vietnam
+[@neutronpay](https://twitter.com/neutronpay)
+[@DominikWeil](https://twitter.com/DominikWeil)
+[@BitcoinSaigon](https://twitter.com/BitcoinSaigon)
+
+### ![zw](/Users/ali/projects/galoy-community/images/flags/zw.png) Zimbabwe
+
+[@Simba_Manyeruke](https://twitter.com/Simba_Manyeruke)
+[@KumbaResources](https://twitter.com/KumbaResources)
+
