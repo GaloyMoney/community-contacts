@@ -5,15 +5,15 @@ For better coordination here are a list of people you can contact that are makin
 
 Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney-workspace/shared_invite/zt-rvnhsdb5-72AZCD_jzw6_Q05aCs0SgA) to discuss on a dedicated channel.
 
-**If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Adding flags is not mandatory, but can be added by using flag unicode character(lookup country unicode from https://flagpedia.net/emoji)
+**If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Adding flags is not mandatory, but can be added by using flag unicode character(lookup country flag unicode from https://flagpedia.net/emoji)
 
 ## 🌎 Global Coordinators
 
 #### People who want to help and support anywhere in the world without a focus on any particular geographic area.
 
 [@Ali_Meer_](https://twitter.com/Ali_Meer_) - Technology and Education support for Bitcoin adoption anywhere in the world
-[@MansoldoMartino](https://twitter.com/MansoldoMartino)
-[@CntmplteitAll](https://twitter.com/CntmplteitAll)
+<br>[@MansoldoMartino](https://twitter.com/MansoldoMartino)
+<br>[@CntmplteitAll](https://twitter.com/CntmplteitAll)
 
 ## Country Specific Coordinators
 
@@ -38,7 +38,7 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 ### 🇨🇷 Costa Rica
 
 [@michael09850542](https://twitter.com/michael09850542)
-[@kawalgrover](https://twitter.com/kawalgrover)
+<br>[@kawalgrover](https://twitter.com/kawalgrover)
 
 ### 🇨🇺 Cuba
 
@@ -75,7 +75,7 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 ### 🇲🇦 Morocco
 
 [@BoutainaAli](https://twitter.com/BoutainaAli)
-
+<br>
 [@jawad_bajjou](https://twitter.com/jawad_bajjou)
 
 ### 🇲🇲 Myanmar
@@ -88,9 +88,12 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 ### 🇵🇭 Philippines
 
 [@JohnnyScarcity](https://twitter.com/JohnnyScarcity)
+<br>
 [@Stratechi1](https://twitter.com/Stratechi1)
-[@bobbydazzzzzler](https://twitter.com/bobbydazzzzzler)
+<br>[@bobbydazzzzzler](https://twitter.com/bobbydazzzzzler)
+<br>
 [@jeo_10](https://twitter.com/jeo_10)
+<br>
 [@21MBitcoinHero](https://twitter.com/21MBitcoinHero)
 
 ### 🇵🇷 Puerto Rico
@@ -99,18 +102,23 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 
 ### 🇸🇳 Sénégal
 [@diopfode](https://twitter.com/diopfode)
+<br>
 [@tkanet](https://twitter.com/tkanet)
+<br>
 [@emaribeyodn](https://twitter.com/emaribeyodn)
 
 ### 🇿🇦 South Africa
 
 [@hatespoverty](https://twitter.com/hatespoverty)
+<br>
 [@dzar_201](https://twitter.com/dzar_201)
+<br>
 [@CuriousMuadib](https://twitter.com/CuriousMuadib)
 
 ### 🇱🇰 Sri Lanka
 
 [@SL_BTC](https://twitter.com/SL_BTC)
+<br>
 [@Excesscapacity](https://twitter.com/Excesscapacity)
 
 ### 🇺🇾 Uruguay
@@ -119,11 +127,14 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 
 ### 🇻🇳 Vietnam
 [@neutronpay](https://twitter.com/neutronpay)
+<br>
 [@DominikWeil](https://twitter.com/DominikWeil)
+<br>
 [@BitcoinSaigon](https://twitter.com/BitcoinSaigon)
 
 ### 🇿🇼 Zimbabwe
 
 [@Simba_Manyeruke](https://twitter.com/Simba_Manyeruke)
+<br>
 [@KumbaResources](https://twitter.com/KumbaResources)
 
