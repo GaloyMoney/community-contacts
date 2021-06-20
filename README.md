@@ -5,7 +5,7 @@ For better coordination here are a list of people you can contact that are makin
 
 Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney-workspace/shared_invite/zt-rvnhsdb5-72AZCD_jzw6_Q05aCs0SgA) to discuss on a dedicated channel.
 
-**If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Flag image is not mandatory but if required it can be downloaded from [https://flagpedia.net/download/icons](https://flagpedia.net/download/icons) , we use the **Small waving icons** in `40x30 px `size.
+**If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Adding flags is not mandatory, but can be added by using flag unicode character(lookup country unicode from https://flagpedia.net/emoji)
 
 ## 🌎 Global Coordinators
 
@@ -19,73 +19,73 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 
 #### People who want to help and support in a particular local area or country.
 
-### <img src="images/flags/ar.png" style="zoom:80%;" /> Argentina
+### 🇦🇷 Argentina
 
 [@lucasabi](https://twitter.com/lucasabi)
 
-### <img src="images/flags/bb.png" style="zoom:80%;" /> Barbados
+### 🇧🇧 Barbados
 
 [@SATISHfaction](https://twitter.com/SATISHfaction)
 
-### <img src="images/flags/bj.png" style="zoom:80%;" /> Benin republic
+### 🇧🇯 Benin republic
 
 [@wale_dprinx](https://twitter.com/wale_dprinx)
 
-### <img src="images/flags/co.png" style="zoom:80%;" /> Colombia
+### 🇨🇴 Colombia
 
 [@Javier503507](https://twitter.com/Javier503507)
 
-### <img src="images/flags/cr.png" style="zoom:80%;" /> Costa Rica
+### 🇨🇷 Costa Rica
 
 [@michael09850542](https://twitter.com/michael09850542)
 [@kawalgrover](https://twitter.com/kawalgrover)
 
-### <img src="images/flags/cu.png" style="zoom:80%;" /> Cuba
+### 🇨🇺 Cuba
 
 [@SalamiHidden](https://twitter.com/SalamiHidden)
 
-### <img src="images/flags/cy.png" style="zoom:80%;" /> Cyprus
+### 🇨🇾 Cyprus
 
 [@0xMike7](https://twitter.com/0xMike7)
 
-### <img src="images/flags/ec.png" style="zoom:80%;" /> Ecuador
+### 🇪🇨 Ecuador
 
 [@latiencia](https://twitter.com/latiencia)
 
-### <img src="images/flags/gh.png" style="zoom:80%;" /> Ghana
+### 🇬🇭 Ghana
 
 [@nba_vybes](https://twitter.com/nba_vybes)
 
-### <img src="images/flags/gr.png" style="zoom:80%;" /> Greece
+### 🇬🇷 Greece
 
 [@btc_urgency](https://twitter.com/btc_urgency)
 
-### <img src="images/flags/gt.png" style="zoom:80%;" /> Guatemalan
+### 🇬🇹 Guatemalan
 
 [@carlostoriello](https://twitter.com/carlostoriello)
 
-### <img src="images/flags/lb.png" style="zoom:80%;" /> Lebanon
+### 🇱🇧 Lebanon
 
 [@dyermaker](https://twitter.com/dyermaker)
 
-### <img src="images/flags/my.png" style="zoom:80%;" /> Malaysia
+### 🇲🇾 Malaysia
 
 [@KZLi10](https://twitter.com/KZLi10)
 
-### <img src="images/flags/mc.png" style="zoom:80%;" /> Morocco
+### 🇲🇦 Morocco
 
 [@BoutainaAli](https://twitter.com/BoutainaAli)
 
 [@jawad_bajjou](https://twitter.com/jawad_bajjou)
 
-### <img src="images/flags/mm.png" style="zoom:80%;" /> Myanmar
+### 🇲🇲 Myanmar
 
 [@_jcdk](https://twitter.com/_jcdk)
 
-### <img src="images/flags/ng.png" style="zoom:80%;" /> Nigeria
+### 🇳🇬 Nigeria
 [@olajide09](https://twitter.com/olajide09)
 
-### <img src="images/flags/ph.png" style="zoom:80%;" /> Philippines
+### 🇵🇭 Philippines
 
 [@JohnnyScarcity](https://twitter.com/JohnnyScarcity)
 [@Stratechi1](https://twitter.com/Stratechi1)
@@ -93,36 +93,36 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 [@jeo_10](https://twitter.com/jeo_10)
 [@21MBitcoinHero](https://twitter.com/21MBitcoinHero)
 
-### <img src="images/flags/pr.png" style="zoom:80%;" /> Puerto Rico
+### 🇵🇷 Puerto Rico
 
 [@Experibot2](https://twitter.com/Experibot2)
 
-### <img src="images/flags/sn.png" style="zoom:80%;" /> Sénégal
+### 🇸🇳 Sénégal
 [@diopfode](https://twitter.com/diopfode)
 [@tkanet](https://twitter.com/tkanet)
 [@emaribeyodn](https://twitter.com/emaribeyodn)
 
-### <img src="images/flags/za.png" style="zoom:80%;" /> South Africa
+### 🇿🇦 South Africa
 
 [@hatespoverty](https://twitter.com/hatespoverty)
 [@dzar_201](https://twitter.com/dzar_201)
 [@CuriousMuadib](https://twitter.com/CuriousMuadib)
 
-### <img src="images/flags/lk.png" style="zoom:80%;" /> Sri Lanka
+### 🇱🇰 Sri Lanka
 
 [@SL_BTC](https://twitter.com/SL_BTC)
 [@Excesscapacity](https://twitter.com/Excesscapacity)
 
-### <img src="images/flags/uy.png" style="zoom:80%;" /> Uruguay
+### 🇺🇾 Uruguay
 
 [@jmbushwrites](https://twitter.com/jmbushwrites)
 
-### <img src="images/flags/vn.png" style="zoom:80%;" /> Vietnam
+### 🇻🇳 Vietnam
 [@neutronpay](https://twitter.com/neutronpay)
 [@DominikWeil](https://twitter.com/DominikWeil)
 [@BitcoinSaigon](https://twitter.com/BitcoinSaigon)
 
-### <img src="images/flags/zw.png" style="zoom:80%;" /> Zimbabwe
+### 🇿🇼 Zimbabwe
 
 [@Simba_Manyeruke](https://twitter.com/Simba_Manyeruke)
 [@KumbaResources](https://twitter.com/KumbaResources)
