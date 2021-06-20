@@ -5,9 +5,9 @@ For better coordination here are a list of people you can contact that are makin
 
 Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney-workspace/shared_invite/zt-rvnhsdb5-72AZCD_jzw6_Q05aCs0SgA) to discuss on a dedicated channel.
 
-**If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Flag image is not mandatory but if required it can be downloaded from https://flagpedia.net/download/icons , we use the **Small waving icons** in `40x30 px `size.
+**If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Flag image is not mandatory but if required it can be downloaded from [https://flagpedia.net/download/icons](https://flagpedia.net/download/icons) , we use the **Small waving icons** in `40x30 px `size.
 
-## ![globe_ico](images/flags/globe_ico.gif) Global Coordinators
+## 🌎 Global Coordinators
 
 #### People who want to help and support anywhere in the world without a focus on any particular geographic area.
 
@@ -19,32 +19,32 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 
 #### People who want to help and support in a particular local area or country.
 
-### ![ar](images/flags/ar.png) Argentina
+### <img src="images/flags/ar.png" style="zoom:100%;" /> Argentina
 
 [@lucasabi](https://twitter.com/lucasabi)
 
-### ![bb](images/flags/bb.png) Barbados
+### ![](images/flags/bb.png) Barbados
 
 [@SATISHfaction](https://twitter.com/SATISHfaction)
 
-### ![bj](images/flags/bj.png) Benin republic
+### ![](images/flags/bj.png) Benin republic
 
 [@wale_dprinx](https://twitter.com/wale_dprinx)
 
-### ![co](images/flags/co.png) Colombia
+### ![](images/flags/co.png) Colombia
 
 [@Javier503507](https://twitter.com/Javier503507)
 
-### ![cr](images/flags/cr.png) Costa Rica
+### ![](images/flags/cr.png) Costa Rica
 
 [@michael09850542](https://twitter.com/michael09850542)
 [@kawalgrover](https://twitter.com/kawalgrover)
 
-### ![cu](images/flags/cu.png) Cuba
+### ![](images/flags/cu.png) Cuba
 
 [@SalamiHidden](https://twitter.com/SalamiHidden)
 
-### ![cy](images/flags/cy.png) Cyprus
+### ![](images/flags/cy.png) Cyprus
 
 [@0xMike7](https://twitter.com/0xMike7)
 
