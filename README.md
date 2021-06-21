@@ -11,14 +11,15 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 
 ### Can we reproduce Bitcoin Beach in our community?
 
-It is our goal to opporate multiple instances of Galoy serving multilpe communites as well as enable communities to host instances of Galoy themselves where technical ability is present.
-For the time being however there is still a lot of work needed for us to be able to manage multiple instances from the opporational perspective.
-Until opporational scalability is technically feasable we will unfortunatly not be able to onboard additional communities.
+It is our goal to operate multiple instances of Galoy serving multiple communities as well as enable communities to host instances of Galoy themselves where technical ability is present.
+For the time being however there is still a lot of work needed for us to be able to manage multiple instances from the operational perspective.
+Until operational scalability is technically feasible we will unfortunately not be able to onboard additional communities.
+
 
 ### How can I deploy galoy
 
 Galoy is currently run on kubernetes.
-But it is not well documented we do not recommend others to try to run a production / mainnet instance for the time being.
+But it is not well documented. We do not recommend others to try to run a production / mainnet instance for the time being.
 
 ### How can I find out about the ongoing progress
 
