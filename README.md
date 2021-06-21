@@ -7,6 +7,26 @@ Also feel free to [join our community Slack](https://join.slack.com/t/galoymoney
 
 **If you want to add yourself here please open a PR to this repo.** If your country is not present in the list then please add it in the right alphabetical order. Adding flags is not mandatory, but can be added by using flag unicode character(lookup country flag unicode from https://flagpedia.net/emoji)
 
+## FAQ
+
+### Can we reproduce Bitcoin Beach in our community?
+
+It is our goal to opporate multiple instances of Galoy serving multilpe communites as well as enable communities to host instances of Galoy themselves where technical ability is present.
+For the time being however there is still a lot of work needed for us to be able to manage multiple instances from the opporational perspective.
+Until opporational scalability is technically feasable we will unfortunatly not be able to onboard additional communities.
+
+### How can I deploy galoy
+
+Galoy is currently run on kubernetes.
+But it is not well documented we do not recommend others to try to run a production / mainnet instance for the time being.
+
+### How can I find out about the ongoing progress
+
+Soon we will start hosting regular community calls.
+You can check back here to find out more.
+In the meantime [join our community Slack](https://join.slack.com/t/galoymoney-workspace/shared_invite/zt-rvnhsdb5-72AZCD_jzw6_Q05aCs0SgA).
+
+
 ## 🌎 Global Coordinators
 
 #### People who want to help and support anywhere in the world without a focus on any particular geographic area.
